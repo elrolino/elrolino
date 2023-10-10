@@ -1,5 +1,5 @@
 ### Olá 👋
-#### 🌱 Currently learning more about PHP, MySQL and Data Analytics.
+#### 🌱 Multimedia undergrad, currently learning more about ES6.
 
 <!--
 **elrolino/elrolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
