@@ -1,5 +1,5 @@
 ### Olá 👋
-#### 🌱 Multimedia undergrad pursuing UX Design and Research who also likes coding, currently learning more about Data Analysis.
+#### 🌱 Multimedia undergrad pursuing UX Design and Research who also likes coding.
 
 <!--
 **elrolino/elrolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
