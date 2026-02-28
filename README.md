@@ -1,5 +1,5 @@
 ### Olá 👋
-#### 🌱 Recently graduated in Multimedia, pursuing Digital Product and Service Design opportunities.
+#### 🌱 Currently working on my thesis, where I research a way to analyse process models systematically.
 
 <!--
 **elrolino/elrolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
