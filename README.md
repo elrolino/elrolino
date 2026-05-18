@@ -1,5 +1,5 @@
 ### Olá 👋
-#### 🌱 Currently working on my thesis, where I research a way to analyse process models systematically.
+#### 🌱 Currently working on my master's thesis, where I research impact of BPMN-based platforms for planning and management on the public sector.
 
 <!--
 **elrolino/elrolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
