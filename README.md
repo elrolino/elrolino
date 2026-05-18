@@ -1,5 +1,5 @@
 ### Olá 👋
-#### 🌱 Currently working on my master's thesis, where I research impact of BPMN-based platforms for planning and management on the public sector.
+#### 🌱 Master's student researching the impact of BPMN-based platforms on planning, management, and digital transformation in the public sector.
 
 <!--
 **elrolino/elrolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
